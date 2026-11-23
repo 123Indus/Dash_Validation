@@ -1,0 +1,1422 @@
+SIDE WIDE DASH VALIDATION REPORT
+
+
+SL NO: 1
+Scenario: athletes Page
+URL: https://recruitpathiq.com/athletes
+Type: Page Text
+Actual Text: yo, flagged a few programs overnight that fit your position + your pre-med / neuro goals. drafted your intro email. sounds like you fr
+Selector: div.text-[0.72rem].text-rp-light.leading-[1.5]
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\athletes_Page_1795434501355.png
+Timestamp: 23/11/2026, 5:18:21 pm
+----------------------------------------
+
+SL NO: 2
+Scenario: athletes Page
+URL: https://recruitpathiq.com/athletes
+Type: Page Text
+Actual Text: new coach list dropped from a showcase. already cross-checked it against your target schools and flagged the matches
+Selector: div.text-[0.72rem].text-rp-light.leading-[1.5]
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\athletes_Page_1795434501355.png
+Timestamp: 23/11/2026, 5:18:21 pm
+----------------------------------------
+
+SL NO: 3
+Scenario: athletes Page
+URL: https://recruitpathiq.com/athletes
+Type: Meta Description
+Actual Text: Student-athletes already have enough on their plate. See how RecruitPathIQ and Chilly, the AI recruiting agent, work on your recruiting while you focus on the game.
+Selector: meta[name="description"]
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\athletes_Page_1795434501355.png
+Timestamp: 23/11/2026, 5:18:21 pm
+----------------------------------------
+
+SL NO: 4
+Scenario: Parents Page
+URL: https://recruitpathiq.com/parents
+Type: Page Text
+Actual Text: Out-of-Town Tournaments & Showcases
+Selector: span.font-head.font-semibold.text-[0.85rem].tracking-[0.04em].text-rp-off
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Parents_Page_1795434507824.png
+Timestamp: 23/11/2026, 5:18:28 pm
+----------------------------------------
+
+SL NO: 5
+Scenario: Pricing Page
+URL: https://recruitpathiq.com/pricing
+Type: Page Text
+Actual Text: A private recruiting consultant runs $5,000-$8,000. Chilly starts at $29/month and never sleeps.
+Selector: p.text-[1.05rem].text-rp-mid.leading-[1.7].max-w-[520px].mx-auto.mb-9
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Pricing_Page_1795434510927.png
+Timestamp: 23/11/2026, 5:18:31 pm
+----------------------------------------
+
+SL NO: 6
+Scenario: Pricing Page
+URL: https://recruitpathiq.com/pricing
+Type: Page Text
+Actual Text: Private recruiting consultant: $5,000-$8,000
+Selector: div.text-center.font-mono.text-[0.78rem].text-rp-dim.mb-10
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Pricing_Page_1795434510927.png
+Timestamp: 23/11/2026, 5:18:31 pm
+----------------------------------------
+
+SL NO: 7
+Scenario: Pricing Page
+URL: https://recruitpathiq.com/pricing
+Type: Page Text
+Actual Text: Start 7-day free trial
+Selector: a.block.w-full.text-center.font-head.font-bold.py-4.text-[0.92rem].tracking-[0.12em].uppercase.transition-colors.duration-200.border.border-rp-steel2.text-rp-off.hover:bg-rp-red.hover:text-white.hover:border-rp-red
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Pricing_Page_1795434510927.png
+Timestamp: 23/11/2026, 5:18:31 pm
+----------------------------------------
+
+SL NO: 8
+Scenario: Pricing Page
+URL: https://recruitpathiq.com/pricing
+Type: Page Text
+Actual Text: 150-school list + coach contacts
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Pricing_Page_1795434510927.png
+Timestamp: 23/11/2026, 5:18:31 pm
+----------------------------------------
+
+SL NO: 9
+Scenario: Pricing Page
+URL: https://recruitpathiq.com/pricing
+Type: Page Text
+Actual Text: Start 7-day free trial
+Selector: a.block.w-full.text-center.font-head.font-bold.py-4.text-[0.92rem].tracking-[0.12em].uppercase.transition-colors.duration-200.bg-white.text-rp-red.border.border-white.hover:bg-white/90
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Pricing_Page_1795434510927.png
+Timestamp: 23/11/2026, 5:18:31 pm
+----------------------------------------
+
+SL NO: 10
+Scenario: Pricing Page
+URL: https://recruitpathiq.com/pricing
+Type: Page Text
+Actual Text: Annual payments are final and non-refundable.
+Selector: strong.font-semibold.text-rp-off
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Pricing_Page_1795434510927.png
+Timestamp: 23/11/2026, 5:18:31 pm
+----------------------------------------
+
+SL NO: 11
+Scenario: Pricing Page
+URL: https://recruitpathiq.com/pricing
+Type: Meta Description
+Actual Text: Chilly starts at $29/month with no long-term contracts. Compare plans for high school athletes and see exactly what is included before you commit.
+Selector: meta[name="description"]
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Pricing_Page_1795434510927.png
+Timestamp: 23/11/2026, 5:18:31 pm
+----------------------------------------
+
+SL NO: 12
+Scenario: FAQ page
+URL: https://recruitpathiq.com/faq
+Type: Page Text
+Actual Text: RecruitPathIQ is an AI-powered recruiting platform for student athletes athletes. Chilly is your athlete's personal AI recruiting agent. It builds the recruiting profile, finds the right college programs, and drafts coach outreach in your athlete's own voice, so a family doesn't have to run recruiting like a second full-time job.
+Selector: p.text-[0.92rem].text-rp-mid.leading-[1.75].max-w-[680px]
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\FAQ_page_1795434516578.png
+Timestamp: 23/11/2026, 5:18:36 pm
+----------------------------------------
+
+SL NO: 13
+Scenario: FAQ page
+URL: https://recruitpathiq.com/faq
+Type: Page Text
+Actual Text: About 20 minutes. The guided 5-phase intake takes roughly 8 minutes to fill out, and Chilly builds your profile, school list, and first drafts shortly after.
+Selector: p.text-[0.92rem].text-rp-mid.leading-[1.75].max-w-[680px]
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\FAQ_page_1795434516578.png
+Timestamp: 23/11/2026, 5:18:36 pm
+----------------------------------------
+
+SL NO: 14
+Scenario: FAQ page
+URL: https://recruitpathiq.com/faq
+Type: Page Text
+Actual Text: They do. During onboarding Chilly learns your athlete's voice from a short set of questions (you can even answer out loud), then writes outreach that reads like your athlete wrote it, not robotic, copy-paste templates.
+Selector: p.text-[0.92rem].text-rp-mid.leading-[1.75].max-w-[680px]
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\FAQ_page_1795434516578.png
+Timestamp: 23/11/2026, 5:18:36 pm
+----------------------------------------
+
+SL NO: 15
+Scenario: FAQ page
+URL: https://recruitpathiq.com/faq
+Type: Page Text
+Actual Text: Every plan starts with a free trial, and you can add optional extras on top of a plan. Choose annual billing and the 12th month is free. See the Pricing page for the current price of each plan and add-on.
+Selector: p.text-[0.92rem].text-rp-mid.leading-[1.75].max-w-[680px]
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\FAQ_page_1795434516578.png
+Timestamp: 23/11/2026, 5:18:36 pm
+----------------------------------------
+
+SL NO: 16
+Scenario: FAQ page
+URL: https://recruitpathiq.com/faq
+Type: Page Text
+Actual Text: Monthly plans can be cancelled anytime. Future charges stop and your access continues through the period you've already paid for, with no partial refunds. Annual plans are billed once up front and are final and non-refundable, so if you're undecided, start monthly.
+Selector: p.text-[0.92rem].text-rp-mid.leading-[1.75].max-w-[680px]
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\FAQ_page_1795434516578.png
+Timestamp: 23/11/2026, 5:18:36 pm
+----------------------------------------
+
+SL NO: 17
+Scenario: our story page
+URL: https://recruitpathiq.com/our-story
+Type: Page Text
+Actual Text: We were spending nights copy-pasting the same email to dozens of schools, missing deadlines we didn't know existed, and watching quieter kids get passed over.
+Selector: p.text-base.text-rp-mid.leading-[1.8].mb-5.[&_strong]:text-rp-light
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\our_story_page_1795434519245.png
+Timestamp: 23/11/2026, 5:18:39 pm
+----------------------------------------
+
+SL NO: 18
+Scenario: our story page
+URL: https://recruitpathiq.com/our-story
+Type: Page Text
+Actual Text: Pre-med · run entirely by Chilly
+Selector: span.block.mt-[0.35rem].font-mono.text-[0.64rem].text-rp-mid.tracking-[0.05em]
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\our_story_page_1795434519245.png
+Timestamp: 23/11/2026, 5:18:39 pm
+----------------------------------------
+
+SL NO: 19
+Scenario: Resources page
+URL: https://recruitpathiq.com/resources
+Type: Page Text
+Actual Text: A mentor once told me: don’t admire a problem, try to fix it. So after a front-row seat to my daughter’s recruiting, I did. That’s how RecruitPathIQ and Chilly came to life.
+Selector: p.text-[0.88rem].text-rp-mid.leading-[1.7].mb-4
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Resources_page_1795434522032.png
+Timestamp: 23/11/2026, 5:18:42 pm
+----------------------------------------
+
+SL NO: 20
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Everything governing your use of RecruitPathIQ in one place: our full Terms of Service and Privacy Policy, plus focused summaries of how we handle children's privacy, education records, cookies, payments, and third-party services.
+Selector: p.text-base.text-rp-mid.leading-[1.8].max-w-[720px].mb-12
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 21
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Third-Party Services
+Selector: a.cursor-pointer.border-l-2.pl-3.py-1.5.text-sm.transition-colors.max-[900px]:shrink-0.max-[900px]:whitespace-nowrap.max-[900px]:rounded-full.max-[900px]:border-l-0.max-[900px]:border.max-[900px]:px-3.max-[900px]:py-1.max-[900px]:text-[0.8rem].border-rp-steel.text-rp-mid.hover:text-white.hover:border-rp-steel3.max-[900px]:border-rp-steel2
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 22
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Service Overview. RecruitPathIQ provides software and AI-assisted tools intended to help student-athletes and their families organize and manage the college athletic recruiting process. The Service is a drafting, organizational, and informational tool. RecruitPathIQ is not a certified or sponsoring agent, is not affiliated with, endorsed by, or sponsored by the NCAA, NAIA, NJCAA, or any individual athletic conference or institution, and does not guarantee any recruiting outcome.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 23
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Annual Subscriptions. By selecting an annual subscription plan, you authorize RecruitPathIQ to charge the payment method on file once, in advance, for a 12-month term. Annual subscriptions include one month at no additional charge (the annual price reflects 11 months of the applicable monthly rate). At the end of the 12-month term, your annual subscription will automatically renew for successive 12-month terms at the then-current annual rate unless you cancel before the renewal date.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 24
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Affirmative Consent to Auto-Renewal. By completing your purchase and checking the box acknowledging automatic renewal, you expressly consent to automatic renewal of your subscription and authorize RecruitPathIQ to charge your payment method automatically at each renewal without further action by you.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 25
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Payment Authorization. By providing a payment method, you authorize RecruitPathIQ and its third-party payment processors to charge all subscription fees, taxes, and other charges incurred in connection with your use of the Service. You represent and warrant that you have the legal right to use the payment method provided.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 26
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Non-Refundable Payments.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 27
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Monthly Subscriptions. Monthly subscription fees are non-refundable. If you cancel a monthly subscription, cancellation stops future billing only. You will retain access to the Service through the end of the billing period already paid for, and no partial refunds will be issued for any unused portion of a monthly billing period.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 28
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Annual Subscriptions. Annual subscription fees are fully paid in advance and are non-refundable upon processing, except where required by applicable law. If you cancel an annual subscription before the end of the 12-month term, you will retain access to the Service through the end of the term already paid for, but no partial or prorated refund will be issued for the unused portion of the term. Subscribers who are uncertain about committing to an annual term are encouraged to select monthly billing.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 29
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Cancellation Process. You may cancel your subscription at any time through the self-service cancellation feature in your account settings or by contacting RecruitPathIQ customer support at
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 30
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Effect of Cancellation. Cancellation is effective at the end of the then-current billing period (for monthly subscriptions) or term (for annual subscriptions). Upon cancellation, your right to use the Service will terminate at the end of the paid period, and you will not be charged for subsequent periods.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 31
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Pre-Dispute Resolution Requirement. You agree to contact RecruitPathIQ customer support at
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 32
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: License to RecruitPathIQ. You grant RecruitPathIQ a non-exclusive, worldwide, royalty-free, fully paid, sublicensable, and transferable license to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, perform, and display User Content solely to provide, operate, maintain, improve, and support the Service for your account. This license terminates when you delete User Content or close your account, except that RecruitPathIQ may retain and use User Content to the extent necessary to comply with legal obligations, resolve disputes, and enforce this Agreement.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 33
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Attempt to reverse-engineer, decompile, disassemble, scrape, or otherwise derive source code or algorithms from the Service or its underlying AI systems;
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 34
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Third-Party Services and Accounts
+Selector: h3.font-head.font-bold.text-lg.text-white.tracking-[0.02em].uppercase.border-t.border-rp-steel.pt-7
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 35
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Third-Party Services. Use of certain features of the Service may require you to create accounts with third-party providers (e.g., Google for a dedicated recruiting email and YouTube channel, social media platforms for monitoring publicly available information). These third-party accounts are governed solely by the applicable third party's terms of service and privacy policy, not by these Terms.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 36
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: No Responsibility for Third Parties. RecruitPathIQ is not responsible for the availability, performance, accuracy, security, privacy practices, or policies of any third-party service. You access and use third-party services at your own risk.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 37
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Public Information Only. Where the Service references social media monitoring, such monitoring is limited to publicly available information and is subject to the terms of service of the applicable platform. RecruitPathIQ does not access private or non-public information without authorization. You are responsible for ensuring that any information you authorize RecruitPathIQ to access complies with applicable third-party terms of service.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 38
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: No Endorsement. RecruitPathIQ's reference to or integration with any third-party service does not constitute an endorsement or recommendation of such service.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 39
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: IMPLIED WARRANTIES. Any implied warranties of merchantability, fitness for a particular purpose, title, non-infringement, quiet enjoyment, accuracy, or integration.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 40
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Performance and Availability. Any warranty that the Service will meet your requirements, be available on an uninterrupted, timely, secure, or error-free basis, or that any defects or errors will be corrected.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 41
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Quality and Accuracy. Any warranty regarding the quality, accuracy, reliability, completeness, or timeliness of any content, data, information, or materials provided through the Service, including AI-generated drafts, recruiting information, or coach/program data.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 42
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: AI-Generated Content. Any warranty that AI-generated content (including drafts, emails, or recruiting materials) will be error-free, appropriate, compliant with NCAA or other rules, or effective for any particular purpose. You are solely responsible for reviewing, editing, and approving all content before use.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 43
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Third-Party Content. Any warranty regarding third-party content, links, services, or information accessed through the Service.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 44
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Jurisdiction-Specific Rights. Some jurisdictions do not allow the exclusion of implied warranties, so some of the above exclusions may not apply to you. In such jurisdictions, the RecruitPathIQ Parties' liability is limited to the greatest extent permitted by law.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 45
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Jurisdiction-Specific Limitations. Some jurisdictions do not allow the limitation or exclusion of certain damages, so some of the above limitations may not apply to you. In such jurisdictions, the RecruitPathIQ Parties' liability is limited to the greatest extent permitted by law.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 46
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Provide verifiable parental consent by signing a consent form, providing a credit card for verification, video conference with staff, or other FTC-approved method;
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 47
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Parental Control Tools. For accounts requiring third-party services (such as Google accounts), parents may use Google Family Link or equivalent parental control mechanisms to supervise the child's use of such services.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 48
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Third-Party Privacy Practices. RecruitPathIQ is not responsible for the privacy practices of third-party services integrated with or linked from the Service. You should review the privacy policies of any third-party services you use in connection with the Service.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 49
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: YOU AND RECRUITPATHIQ AGREE THAT EACH PARTY MAY BRING DISPUTES AGAINST THE OTHER PARTY ONLY IN AN INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS, CONSOLIDATED, OR REPRESENTATIVE PROCEEDING. UNLESS BOTH YOU AND RECRUITPATHIQ AGREE OTHERWISE IN WRITING, THE ARBITRATOR MAY NOT CONSOLIDATE MORE THAN ONE PERSON'S CLAIMS AND MAY NOT OTHERWISE PRESIDE OVER ANY FORM OF A REPRESENTATIVE, CLASS, OR CONSOLIDATED PROCEEDING. YOU AND RECRUITPATHIQ EACH WAIVE ANY RIGHT TO A JURY TRIAL AND ANY RIGHT TO PARTICIPATE IN A CLASS ACTION OR CLASS-WIDE ARBITRATION.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 50
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Opt-Out Right. You have the right to opt out of this arbitration agreement by sending written notice of your decision to opt out to RecruitPathIQ at our mailing address (available on request) or
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 51
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: within thirty (30) days of the date you first accept these Terms. Your opt-out notice must include your full name, mailing address, email address, and a clear statement that you wish to opt out of this arbitration agreement. If you opt out, you will not be bound by the arbitration provisions in this Article XIV, but all other terms of this Agreement will continue to apply.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 52
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Providing an in-app notice or pop-up alert upon your next login to the Service.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 53
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Rejection of Changes. If a material change adversely affects your rights under these Terms and you do not agree to the change, you may reject the change by canceling your subscription before the effective date of the change. Your cancellation will be effective at the end of your then-current billing period or term, and the prior version of the Terms will continue to govern your use of the Service through that date.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 54
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Limited License to Use. Subject to your compliance with these Terms, RecruitPathIQ grants you a limited, non-exclusive, non-transferable, non-sublicensable, revocable license to access and use the Service solely for your personal, non-commercial use in connection with managing the college athletic recruiting process for the registered athlete. This license does not include any right to:
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 55
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Feedback. If you provide RecruitPathIQ with any feedback, suggestions, ideas, or other information regarding the Service ("Feedback"), you grant RecruitPathIQ a perpetual, irrevocable, worldwide, royalty-free, fully paid, sublicensable, and transferable license to use, reproduce, modify, create derivative works from, distribute, and otherwise exploit such Feedback for any purpose, without compensation or attribution to you.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 56
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Termination by You. You may terminate these Terms and close your account at any time by canceling your subscription as described in Article IV, Section V. Termination by you will be effective at the end of the then-current billing period or term, and you will not be entitled to a refund of any prepaid fees.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 57
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: No Third-Party Beneficiaries. These Terms are for the sole benefit of you and RecruitPathIQ and do not create any third-party beneficiary rights in any other person or entity, except that the RecruitPathIQ Parties identified in Articles IX, X, and XI are intended third-party beneficiaries of those provisions.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 58
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Notices to You. RecruitPathIQ may provide notices to you via email to the email address associated with your account, by posting on the Service, or by in-app notification. Notices sent by email will be deemed given when sent. It is your responsibility to keep your email address current.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 59
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Electronic Communications. By using the Service, you consent to receiving electronic communications from RecruitPathIQ, including emails, in-app messages, and notices posted on the Service. You agree that all agreements, notices, disclosures, and other communications that RecruitPathIQ provides to you electronically satisfy any legal requirement that such communications be in writing. You may withdraw your consent to receive electronic communications by closing your account, but withdrawal of consent will result in termination of your access to the Service.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 60
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Export Control. You agree to comply with all applicable U.S. and international export and re-export control laws and regulations in your use of the Service. You represent and warrant that you are not located in a country subject to a U.S. government embargo or designated as a "terrorist supporting" country, and that you are not listed on any U.S. government list of prohibited or restricted parties.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 61
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: For COPPA or privacy-related inquiries, contact:
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 62
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: We may receive information about Students from college recruiters, athletic organizations, or third-party services that Students have authorized to share information with RecruitPathIQ.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 63
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Communication. To send account-related notifications, service updates, and responses to inquiries;
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 64
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Research. To conduct research and analysis in aggregated, de-identified form that does not identify individual Students.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 65
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Engage in targeted advertising to Students based on their Personal Information or browsing behavior on the Platform or third-party sites;
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 66
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: RecruitPathIQ does not display third-party advertisements on the Platform.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 67
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: De-Identified Data.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 68
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: We may aggregate and de-identify Student Data to create statistical or analytical information that cannot reasonably be used to identify any individual Student.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 69
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: De-identified data may be used for research, analytics, benchmarking, and product development without restriction.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 70
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: We will maintain and use de-identified data only in de-identified form and will not attempt to re-identify such data.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 71
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Video Conferencing. Parent participates in a video conference call during which a government-issued identification document is presented and identity is verified;
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 72
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Knowledge-Based Authentication. Parent answers a series of knowledge-based authentication questions;
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 73
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Electronic Signature. Parent provides an electronic signature through a secure, third-party service that verifies identity.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 74
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Third-party service providers.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 75
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Right to Export Data. Parents have the right to receive a copy of their child's Student Data in a portable, machine-readable format upon request.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 76
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: A copy of a government-issued identification document (driver's license, passport) or other verification materials.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 77
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: We engage third-party service providers to perform functions on our behalf, including:
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 78
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Aggregate and De-Identified Information.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 79
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: We may share aggregated, de-identified, or anonymized information that does not identify individual Students with third parties for research, analytics, marketing, or other purposes.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 80
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Retain only de-identified, aggregated data and such records as are necessary to comply with legal obligations.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 81
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Exceptions. We may retain Student Data beyond the 24-month inactive period if:
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 82
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Maintain de-identified, aggregated data for analytics.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 83
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Third-Party Data Retention.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 84
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: De-Identified and Aggregated Data.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 85
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: De-identified and aggregated data that cannot reasonably be used to identify an individual Student may be retained indefinitely for research, analytics, and product development purposes.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 86
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Role-based access controls (RBAC) limiting access based on job responsibilities;
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 87
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Principles of least privilege and need-to-know;
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 88
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Vendor Management. We conduct due diligence on third-party service providers prior to engagement, including:
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 89
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Data at Rest. Student Data stored in our databases and systems is encrypted using industry-standard encryption algorithms (AES-256 or equivalent).
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 90
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: We support and encourage the use of multi-factor authentication (MFA) for all user accounts.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 91
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Administrative and privileged accounts require multi-factor authentication.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 92
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: We implement account lockout mechanisms to prevent brute-force attacks.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 93
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Applications are tested for common vulnerabilities (e.g., SQL injection, cross-site scripting, cross-site request forgery) prior to deployment.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 94
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: We conduct periodic penetration testing and vulnerability assessments by qualified third-party security firms.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 95
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Malware Protection. Anti-malware and anti-virus software is deployed on all systems and is updated regularly with the latest threat signatures.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 96
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Data Center Security. Student Data is hosted in secure, third-party data centers that maintain:
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 97
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Device Security. Company-owned devices with access to Student Data are subject to:
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 98
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Full-disk encryption;
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 99
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Facility Access. Access to RecruitPathIQ offices and facilities is controlled through keycard systems, visitor logs, and employee escorts for non-employees.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 100
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: When feasible, we de-identify or anonymize Student Data used for analytics, research, and product development.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 101
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Our security program is audited annually by independent third-party auditors, and we implement recommended improvements.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 102
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: We maintain recognized information-security standards to demonstrate our commitment to information security.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 103
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Enabling multi-factor authentication;
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 104
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Providing an in-Platform notification upon the user's next login.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 105
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Non-Material Changes.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 106
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Non-material changes, such as updates to contact information, clarifications, formatting changes, or changes that enhance privacy protections, may be implemented without advance notice.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 107
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Age-Gated Registration.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 108
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: We do not use persistent identifiers to track Children across third-party websites or online services for behavioral advertising purposes.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 109
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: When a School designates information as directory information, we will treat such information in accordance with the School's FERPA policy and any opt-out requests.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 110
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: A copy of a government-issued identification document or other verification materials.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 111
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: We will provide the requested Student Data in a commonly used, machine-readable format (e.g., PDF, CSV, JSON) via secure email, secure download link, or through the Platform interface.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 112
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: THIRD-PARTY LINKS AND SERVICES
+Selector: h3.font-head.font-bold.text-lg.text-white.tracking-[0.02em].uppercase.border-t.border-rp-steel.pt-7
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 113
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Third-Party Websites and Content.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 114
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: The Platform may contain links to third-party websites, services, applications, or content, including:
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 115
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: These third-party sites and services are not under RecruitPathIQ's control, and we are not responsible for their privacy practices, content, or functionality.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 116
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: The inclusion of a link to a third-party website or service does not constitute an endorsement, sponsorship, or recommendation by RecruitPathIQ.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 117
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: We do not make any representations or warranties regarding third-party sites or services.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 118
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Third-Party Privacy Policies.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 119
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Third-party websites and services have their own privacy policies and terms of service.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 120
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: We encourage Students and Parents to review the privacy policies of any third-party sites or services before providing Personal Information or interacting with those sites.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 121
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: RecruitPathIQ is not responsible for any loss, damage, or harm resulting from interactions with third-party sites or services accessed through links on the Platform.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 122
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Any disputes or issues arising from use of third-party sites or services must be resolved directly with the third party.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 123
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: This Article describes how RecruitPathIQ accesses and uses data from a Student's Google Account. It applies only when a Student chooses to connect a Google Account to the Platform. Connecting a Google Account is optional; the Platform is usable without it, and a Student who does not connect one simply does not receive the coach-email features described below.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 124
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Data obtained from a Student's Google Account is used only to provide and improve the user-facing features the Student connected it for, namely:
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 125
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: To generate the follow-up suggestion described above, the coach's name and email address, the subject line, and the short message preview are transmitted to a third-party artificial-intelligence provider that acts as our service provider. That provider processes the information to produce the suggestion and is not permitted to use it to train generalized artificial-intelligence models.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 126
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Used to train generalized or standalone artificial-intelligence models;
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 127
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: On disconnection we delete the stored Google credentials. Reply and delivery-failure records already shown in the Student's own account history are retained under the retention rules in Article 6 of this Policy, because they are part of the Student's own recruiting record; a Student or Parent may request their deletion under Article 12.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 128
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: The Student's Google Account itself is governed by Google's own terms of service and privacy policy, not by this Policy. Where a Student is under 18, we encourage Parents to review the guidance in Article 4 regarding supervision of third-party accounts.
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 129
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Federal Trade Commission (FTC): Consumer Response Center 600 Pennsylvania Avenue NW Washington, DC 20580 Phone: 1-877-FTC-HELP (1-877-382-4357) Website: www.ftc.gov/complaint
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 130
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Parents of Students Aged 13-17 Have the Right To:
+Selector: span
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 131
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: We do not knowingly collect personal information from children under 13 without first obtaining verifiable parental consent, as required by the Children's Online Privacy Protection Act (COPPA). Registration is age-gated, and no account is created for a child under 13 until a parent or guardian has consented.
+Selector: p
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 132
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Usage information is not used to personally identify students except when combined with information you have voluntarily provided. We do not serve third-party advertising or use persistent identifiers to track children for behavioral advertising.
+Selector: p
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 133
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Subscriptions renew automatically until cancelled. Monthly plans bill each month; annual plans bill once for a 12-month term (with one month included at no additional charge) and then renew annually. We email a renewal reminder at least 15 days before each renewal.
+Selector: p
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 134
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Monthly and annual fees are non-refundable, but cancelling stops future billing and you keep access through the end of the period already paid for. Please contact support to resolve any billing issue before initiating a chargeback.
+Selector: p
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 135
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Third-Party Services
+Selector: h2.font-head.font-bold.text-2xl.text-white.tracking-[0.02em].mb-5
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 136
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: The platform integrates with and links to third-party services (for example, email and cloud providers, and college or athletic-organization websites). Those services operate under their own terms and privacy policies, which we encourage you to review.
+Selector: p
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 137
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Terms of Service, VIII: Third-Party Services and Accounts
+Selector: a.inline-flex.items-center.gap-1.5.text-sm.text-rp-red.hover:text-rp-red3.font-medium.cursor-pointer
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 138
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Page Text
+Actual Text: Privacy Policy, 13: Third-Party Links and Services
+Selector: a.inline-flex.items-center.gap-1.5.text-sm.text-rp-red.hover:text-rp-red3.font-medium.cursor-pointer
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 139
+Scenario: Legal page
+URL: https://recruitpathiq.com/legal
+Type: Meta Description
+Actual Text: RecruitPathIQ legal center: Terms of Service, Privacy Policy, COPPA and FERPA compliance, cookies, payments, third-party services, and contact.
+Selector: meta[name="description"]
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\Legal_page_1795434530237.png
+Timestamp: 23/11/2026, 5:18:52 pm
+----------------------------------------
+
+SL NO: 140
+Scenario: dont-admire-the-problem page
+URL: https://recruitpathiq.com/resources/dont-admire-the-problem
+Type: Page Text
+Actual Text: Does this school have a good pre-med program?
+Selector: span.flex-1
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\dont-admire-the-problem_page_1795434534980.png
+Timestamp: 23/11/2026, 5:18:55 pm
+----------------------------------------
+
+SL NO: 141
+Scenario: I am just starting
+URL: https://recruitpathiq.com/resources/paths/im-just-starting
+Type: Page Text
+Actual Text: A mentor once told me: don’t admire a problem, try to fix it. So after a front-row seat to my daughter’s recruiting, I did. That’s how RecruitPathIQ and Chilly came to life.
+Selector: p.text-[0.95rem].text-rp-mid.leading-[1.7].mt-2
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\I_am_just_starting_1795434542892.png
+Timestamp: 23/11/2026, 5:19:03 pm
+----------------------------------------
+
+SL NO: 142
+Scenario: meet the family behind recruitpath
+URL: https://recruitpathiq.com/blog/meet-the-family-behind-recruitpathiq
+Type: Page Text
+Actual Text: Payton wants to pursue pre-med. A program that wants her glove but doesn't have a strong science track isn't the right fit, no matter how good the softball is. The right school is where both answers line up.
+Selector: p
+Screenshot: C:\Users\kumar\Downloads\Dash_Remove\screenshots\dash-violations\meet_the_family_behind_recruitpath_1795434553187.png
+Timestamp: 23/11/2026, 5:19:13 pm
+----------------------------------------
